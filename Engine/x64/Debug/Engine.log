@@ -1,0 +1,25 @@
+﻿  GameEngine.cpp
+C:\Users\james\OneDrive\Documents\University\Year 2\GameEngine\design-and-implement-3d-game-level-scene-using-opengl-api-JamesB0010\Kerosene renderer\Include\Kerosene Renderer\ModelRenderer.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\james\OneDrive\Documents\University\Year 2\GameEngine\design-and-implement-3d-game-level-scene-using-opengl-api-JamesB0010\Kerosene renderer\Include\Kerosene Renderer\FrameBuffer.h(15,23): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\james\OneDrive\Documents\University\Year 2\GameEngine\design-and-implement-3d-game-level-scene-using-opengl-api-JamesB0010\Kerosene renderer\Include\Kerosene Renderer\FrameBuffer.h(16,24): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\james\OneDrive\Documents\University\Year 2\GameEngine\design-and-implement-3d-game-level-scene-using-opengl-api-JamesB0010\Engine\Include\Jett Engine\GameEngine.h(143,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\james\OneDrive\Documents\University\Year 2\GameEngine\design-and-implement-3d-game-level-scene-using-opengl-api-JamesB0010\Engine\Source\GameEngine.cpp(186,80): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\james\OneDrive\Documents\University\Year 2\GameEngine\design-and-implement-3d-game-level-scene-using-opengl-api-JamesB0010\Engine\Source\GameEngine.cpp(186,55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\james\OneDrive\Documents\University\Year 2\GameEngine\design-and-implement-3d-game-level-scene-using-opengl-api-JamesB0010\Engine\Source\GameEngine.cpp(240,37): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Engine.vcxproj -> C:\Users\james\OneDrive\Documents\University\Year 2\GameEngine\design-and-implement-3d-game-level-scene-using-opengl-api-JamesB0010\Engine\x64\Debug\Engine.lib

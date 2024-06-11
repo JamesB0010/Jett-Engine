@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" name="Game" fogEnabled="true" fogColor="-6901028" fogRange="4000" fogDensity="0.33" xmlns="gap">
+	<gameObjectFolder name="GameObjects" visible="true" locked="false">
+		<gameObject xsi:type="locatorType" transform="-3.9449017 0 6.83276939 0 3.9191165 6.462947 2.26270318 0 -5.597076 4.525406 -3.231474 0 24.56429 -5.557422 32.552784 1" translate="24.56429 -5.557422 32.552784" rotate="-0.6108654 -2.09439516 0" scale="7.88980246 7.88980246 7.88980246" pivot="0 0 0" name="Locator" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Shark/sharkModel.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.0301639978 0 0 0 0 0.0301639978 0 0 0 0 0.0301639978 0 -5.518593 -1.68072891 27.46892 1" translate="-5.518593 -1.68072891 27.46892" rotate="0 0 0" scale="0.0301639978 0.0301639978 0.0301639978" pivot="0 0 0" name="Locator_1" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Cannon/CannonModel.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.0301639978 0 0 0 0 0.0301639978 0 0 0 0 0.0301639978 0 -5.518593 -1.68072891 20.01611 1" translate="-5.518593 -1.68072891 20.01611" rotate="0 0 0" scale="0.0301639978 0.0301639978 0.0301639978" pivot="0 0 0" name="Locator_2" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Cannon/CannonModel.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.0301639978 0 0 0 0 0.0301639978 0 0 0 0 0.0301639978 0 -5.518593 -1.68072891 33.5514221 1" translate="-5.518593 -1.68072891 33.5514221" rotate="0 0 0" scale="0.0301639978 0.0301639978 0.0301639978" pivot="0 0 0" name="Locator_3" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Cannon/CannonModel.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.0301639978 0 0 0 0 0.0301639978 0 0 0 0 0.0301639978 0 -5.518593 -1.68072891 13.1099987 1" translate="-5.518593 -1.68072891 13.1099987" rotate="0 0 0" scale="0.0301639978 0.0301639978 0.0301639978" pivot="0 0 0" name="Locator_4" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Cannon/CannonModel.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="-0.0301639978 0 -4.554637E-09 0 0 0.0301639978 0 0 4.554637E-09 0 -0.0301639978 0 -18.5119381 -1.68072891 13.1099987 1" translate="-18.5119381 -1.68072891 13.1099987" rotate="0 3.1415925 0" scale="0.0301639978 0.0301639978 0.0301639978" pivot="0 0 0" name="Locator_5" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Cannon/CannonModel.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="-0.0301639978 0 -4.554637E-09 0 0 0.0301639978 0 0 4.554637E-09 0 -0.0301639978 0 -18.5119381 -1.68072891 27.46892 1" translate="-18.5119381 -1.68072891 27.46892" rotate="0 3.1415925 0" scale="0.0301639978 0.0301639978 0.0301639978" pivot="0 0 0" name="Locator_6" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Cannon/CannonModel.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="-0.0301639978 0 -4.554637E-09 0 0 0.0301639978 0 0 4.554637E-09 0 -0.0301639978 0 -18.5119381 -1.68072891 20.01611 1" translate="-18.5119381 -1.68072891 20.01611" rotate="0 3.1415925 0" scale="0.0301639978 0.0301639978 0.0301639978" pivot="0 0 0" name="Locator_7" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Cannon/CannonModel.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="-0.0301639978 0 -4.554637E-09 0 0 0.0301639978 0 0 4.554637E-09 0 -0.0301639978 0 -18.5119381 -1.68072891 33.5514221 1" translate="-18.5119381 -1.68072891 33.5514221" rotate="0 3.1415925 0" scale="0.0301639978 0.0301639978 0.0301639978" pivot="0 0 0" name="Locator_8" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Cannon/CannonModel.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="2.12499952 0 0 0 0 2.12499952 0 0 0 0 2.12499952 0 -7.17591953 -5.48348427 16.3873138 1" translate="-7.17591953 -5.48348427 16.3873138" rotate="0 0 0" scale="2.12499952 2.12499952 2.12499952" pivot="0 0 0" name="Locator_9" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Water/Water.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="7.86302337E-07 0 -10.41489 0 0 1 0 0 10.41489 0 7.86302337E-07 0 -12.3603029 -2.337923 24.9699478 1" translate="-12.3603029 -2.337923 24.9699478" rotate="0 1.57079625 0" scale="10.41489 1 10.41489" pivot="0 0 0" name="Locator_10" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Boat/Boat.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -43.761013 -2.20854187 -13.3615561 1" translate="-43.761013 -2.20854187 -13.3615561" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_11" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -54.6534767 -2.20854187 -4.62110043 1" translate="-54.6534767 -2.20854187 -4.62110043" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_12" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -51.696682 -2.20854187 -25.317131 1" translate="-51.696682 -2.20854187 -25.317131" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_13" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -27.3668232 -2.20854187 -23.60741 1" translate="-27.3668232 -2.20854187 -23.60741" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_14" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -6.326559 -2.20854187 -25.6979256 1" translate="-6.326559 -2.20854187 -25.6979256" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_15" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 16.5403252 -2.20854187 -27.171917 1" translate="16.5403252 -2.20854187 -27.171917" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_16" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 26.45673 -2.20854187 -19.0849228 1" translate="26.45673 -2.20854187 -19.0849228" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_17" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 14.2566729 -2.20854187 -18.0595932 1" translate="14.2566729 -2.20854187 -18.0595932" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_18" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 31.11625 -2.20854187 -5.71188545 1" translate="31.11625 -2.20854187 -5.71188545" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_19" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 42.1190071 -2.20854187 6.552184 1" translate="42.1190071 -2.20854187 6.552184" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_20" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 31.9271336 -2.20854187 13.4580421 1" translate="31.9271336 -2.20854187 13.4580421" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_21" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 37.34177 -2.20854187 31.5701771 1" translate="37.34177 -2.20854187 31.5701771" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_22" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 28.0816135 -2.20854187 38.022377 1" translate="28.0816135 -2.20854187 38.022377" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_23" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 28.0816135 -2.20854187 49.7574921 1" translate="28.0816135 -2.20854187 49.7574921" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_24" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 33.48342 -2.20854187 57.37594 1" translate="33.48342 -2.20854187 57.37594" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_25" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 18.1454468 -2.20854187 57.9323235 1" translate="18.1454468 -2.20854187 57.9323235" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_26" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 15.1411572 -2.20854187 45.58261 1" translate="15.1411572 -2.20854187 45.58261" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_27" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -11.0052481 -2.20854187 56.9204941 1" translate="-11.0052481 -2.20854187 56.9204941" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_28" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 2.44887161 -2.20854187 56.9204941 1" translate="2.44887161 -2.20854187 56.9204941" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_29" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -29.735 -2.20854187 60.50306 1" translate="-29.735 -2.20854187 60.50306" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_30" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -31.562151 -2.20854187 49.4606438 1" translate="-31.562151 -2.20854187 49.4606438" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_31" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -42.94855 -2.20854187 55.30542 1" translate="-42.94855 -2.20854187 55.30542" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_32" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -47.7061729 -2.20854187 45.088356 1" translate="-47.7061729 -2.20854187 45.088356" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_33" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -33.92262 -2.20854187 36.2462273 1" translate="-33.92262 -2.20854187 36.2462273" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_34" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -43.05152 -2.20854187 29.7220573 1" translate="-43.05152 -2.20854187 29.7220573" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_35" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -33.9129028 -2.20854187 16.4057846 1" translate="-33.9129028 -2.20854187 16.4057846" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_36" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -45.62658 -2.20854187 6.096409 1" translate="-45.62658 -2.20854187 6.096409" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_37" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -41.5298042 -2.20854187 -4.92812538 1" translate="-41.5298042 -2.20854187 -4.92812538" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_38" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1 0 0 0 0 1 0 0 0 0 1 0 -37.8885345 -2.20854187 1.45980263 1" translate="-37.8885345 -2.20854187 1.45980263" rotate="0 0 0" scale="1 1 1" pivot="0 0 0" name="Locator_39" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/PalmTree/PalmTree.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.204999864 0 0 0 0 -0.117583096 0.167926043 0 0 -0.167926043 -0.117583096 0 6.47636747 15.2950487 -2.82788277 1" translate="6.47636747 15.2950487 -2.82788277" rotate="2.18166161 0 0" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_40" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.192636862 -0.01814686 0.067725 0 -0.06904889 -0.08348551 0.174032658 0 0.0121751782 -0.1863486 -0.08456302 0 12.8977375 15.6385841 4.7458 1" translate="12.8977375 15.6385841 4.7458" rotate="2.023103 -0.3366914 -0.0939252451" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_41" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.198014662 0.0137324 -0.0512500033 0 0.05125 0.00174635113 0.198482588 0 0.0137324119 -0.204531938 -0.00174625684 0 2.68330765 15.6385841 -2.42478275 1" translate="2.68330765 15.6385841 -2.42478275" rotate="1.57959414 0.252680451 0.0692395642" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_42" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.201885462 -0.009213403 0.03438488 0 -0.0350570381 -0.017073039 0.2012572 0 -0.006181513 -0.2040798 -0.0183892474 0 3.85623026 15.6385841 9.723898 1" translate="3.85623026 15.6385841 9.723898" rotate="1.66191518 -0.168527856 -0.04560514" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_43" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.201885447 0.009213415 -0.0343849324 0 0.03505709 -0.08584286 0.182830378 0 -0.006181511 -0.185932934 -0.0861143 0 20.3439751 15.6385841 9.991877 1" translate="20.3439751 15.6385841 9.991877" rotate="2.01098132 0.16852811 0.045605205" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_44" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.204219773 0.00462431367 -0.0172581729 0 0.017595537 -0.08643785 0.1850509 0 -0.003102567 -0.18582803 -0.08650584 0 10.4578543 15.6385841 15.7421875 1" translate="10.4578543 15.6385841 15.7421875" rotate="2.00808334 0.08428603 0.02263994" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_45" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.204999864 0 0 0 0 0.01786695 0.204219773 0 0 -0.204219773 0.01786695 0 16.8358154 15.6385841 -5.403576 1" translate="16.8358154 15.6385841 -5.403576" rotate="1.48352969 0 0" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_46" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.201885462 -0.009213403 0.03438488 0 -0.0350570381 -0.017073039 0.2012572 0 -0.006181513 -0.2040798 -0.0183892474 0 5.30150032 15.6385841 16.1052055 1" translate="5.30150032 15.6385841 16.1052055" rotate="1.66191518 -0.168527856 -0.04560514" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_47" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.204219773 0.00462431367 -0.0172581729 0 0.017595537 -0.08643785 0.1850509 0 -0.003102567 -0.18582803 -0.08650584 0 11.9031248 15.6385841 22.123497 1" translate="11.9031248 15.6385841 22.123497" rotate="2.00808334 0.08428603 0.02263994" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_48" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.201885447 0.009213415 -0.0343849324 0 0.03505709 -0.08584286 0.182830378 0 -0.006181511 -0.185932934 -0.0861143 0 21.7892456 15.6385841 16.3731842 1" translate="21.7892456 15.6385841 16.3731842" rotate="2.01098132 0.16852811 0.045605205" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_49" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.192636862 -0.01814686 0.067725 0 -0.06904889 -0.08348551 0.174032658 0 0.0121751782 -0.1863486 -0.08456302 0 14.343008 15.6385841 11.1271086 1" translate="14.343008 15.6385841 11.1271086" rotate="2.023103 -0.3366914 -0.0939252451" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_50" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.198014662 0.0137324 -0.0512500033 0 0.05125 0.00174635113 0.198482588 0 0.0137324119 -0.204531938 -0.00174625684 0 4.12857771 15.6385841 3.9565258 1" translate="4.12857771 15.6385841 3.9565258" rotate="1.57959414 0.252680451 0.0692395642" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_51" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.204999864 0 0 0 0 0.01786695 0.204219773 0 0 -0.204219773 0.01786695 0 18.281086 15.6385841 0.977732658 1" translate="18.281086 15.6385841 0.977732658" rotate="1.48352969 0 0" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_52" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.204999864 0 0 0 0 -0.117583096 0.167926043 0 0 -0.167926043 -0.117583096 0 7.92163754 15.2950487 3.55342579 1" translate="7.92163754 15.2950487 3.55342579" rotate="2.18166161 0 0" scale="0.204999864 0.204999864 0.204999864" pivot="0 0 0" name="Locator_53" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/Bird/Bird.dae" />
+		</gameObject>
+	</gameObjectFolder>
+	<layers />
+	<bookmarks />
+	<grid size="20" subdivisions="20" height="0" snap="false" visible="true" />
+</game>

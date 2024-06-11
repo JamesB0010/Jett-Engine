@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" name="Game" fogEnabled="true" fogColor="-6901028" fogRange="4000" fogDensity="0.33" xmlns="gap">
+	<gameObjectFolder name="GameObjects" visible="true" locked="false">
+		<gameObject xsi:type="locatorType" transform="0.4249999 0 0 0 0 3.20866E-08 0.4249999 0 0 -0.4249999 3.20866E-08 0 -6.760352 -0.384225458 9.197182 1" translate="-6.760352 -0.384225458 9.197182" rotate="1.57079625 0 0" scale="0.4249999 0.4249999 0.4249999" pivot="0 0 0" name="Locator_1" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/SpaceShipTextured.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.4249999 0 0 0 0 -0.348139465 0.24377 0 0 -0.24377 -0.348139465 0 -19.3814659 11.0976791 1.81511641 1" translate="-19.3814659 11.0976791 1.81511641" rotate="2.53072715 0 0" scale="0.4249999 0.4249999 0.4249999" pivot="0 0 0" name="Locator_2" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/SpaceShipTextured.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="0.4249999 0 0 0 0 0.3993693 0.145358384 0 0 -0.145358384 0.3993693 0 -14.6023226 5.45714331 18.6888313 1" translate="-14.6023226 5.45714331 18.6888313" rotate="0.349065483 0 0" scale="0.4249999 0.4249999 0.4249999" pivot="0 0 0" name="Locator_3" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/SpaceShipTextured.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1.13321153E-06 0 -15.009841 0 15.009841 1.13321153E-06 1.13321153E-06 0 1.13321153E-06 -15.009841 8.555509E-14 0 7.89076042 13.1598358 8.542473 1" translate="7.89076042 13.1598358 8.542473" rotate="1.57079625 1.57079625 0" scale="15.009841 15.009841 15.009841" pivot="0 0 0" name="Locator" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/ChibiCarlo.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="1.13321153E-06 0 -15.009841 0 15.009841 1.13321153E-06 1.13321153E-06 0 1.13321153E-06 -15.009841 8.555509E-14 0 -109.848991 13.1598358 8.542473 1" translate="-109.848991 13.1598358 8.542473" rotate="1.57079625 1.57079625 0" scale="15.009841 15.009841 15.009841" pivot="0 0 0" name="Locator_4" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/ChibiCarlo.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="-0.4249999 1.65501064E-07 0 0 -1.35570545E-07 -0.348139554 -0.243769884 0 -9.492749E-08 -0.243769884 0.348139554 0 -123.25827 12.8976831 -7.106113 1" translate="-123.25827 12.8976831 -7.106113" rotate="-0.6108651 0 3.14159226" scale="0.4249999 0.4249999 0.4249999" pivot="0 0 0" name="Locator_5" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/SpaceShipTextured.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="-0.4249999 1.65501064E-07 0 0 1.55520127E-07 0.39936927 -0.145358548 0 -5.660471E-08 -0.145358548 -0.39936927 0 -116.728905 19.86141 18.6888313 1" translate="-116.728905 19.86141 18.6888313" rotate="-2.79252672 0 3.14159226" scale="0.4249999 0.4249999 0.4249999" pivot="0 0 0" name="Locator_6" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/SpaceShipTextured.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="-0.4249999 1.65501064E-07 0 0 -5.19535146E-14 -1.33414474E-07 -0.4249999 0 -1.65501064E-07 -0.4249999 1.33414474E-07 0 -100.292877 33.2553329 9.197182 1" translate="-100.292877 33.2553329 9.197182" rotate="-1.570796 0 3.14159226" scale="0.4249999 0.4249999 0.4249999" pivot="0 0 0" name="Locator_7" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/SpaceShipTextured.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="-3.4478116 1.34262734E-06 0 0 -4.21472834E-13 -1.08232484E-06 -3.4478116 0 -1.34262734E-06 -3.4478116 1.08232484E-06 0 -166.9794 107.308624 9.197182 1" translate="-166.9794 107.308624 9.197182" rotate="-1.570796 0 3.14159226" scale="3.4478116 3.4478116 3.4478116" pivot="0 0 0" name="Locator_8" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/SpaceShipTextured.dae" />
+		</gameObject>
+		<gameObject xsi:type="locatorType" transform="3.4478116 -1.34262734E-06 -5.20605056E-07 0 5.20604658E-07 -1.08232507E-06 3.4478116 0 -1.34262746E-06 -3.4478116 -1.08232484E-06 0 35.54984 107.308624 9.197182 1" translate="35.54984 107.308624 9.197182" rotate="-1.570796 3.1415925 3.14159226" scale="3.4478116 3.4478116 3.4478116" pivot="0 0 0" name="Locator_9" visible="true" locked="false" transformationType="15">
+			<resource xsi:type="resourceReferenceType" uri="Assets/SpaceShipTextured.dae" />
+		</gameObject>
+	</gameObjectFolder>
+	<layers />
+	<bookmarks />
+	<grid size="20" subdivisions="20" height="0" snap="false" visible="true" />
+</game>
